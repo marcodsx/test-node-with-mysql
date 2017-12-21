@@ -1,0 +1,27 @@
+{
+  "name": "test-mysql",
+  "version": "1.0.0",
+  "description": "Test mysql connection using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcodsx/test-node-with-mysql.git"
+  },
+  "keywords": [
+    "mysql",
+    "git",
+    "node"
+  ],
+  "author": "Marco De Salvador",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcodsx/test-node-with-mysql/issues"
+  },
+  "homepage": "https://github.com/marcodsx/test-node-with-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
